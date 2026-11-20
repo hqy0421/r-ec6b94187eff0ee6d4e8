@@ -24,6 +24,7 @@ from category_encoders.ordinal import OrdinalEncoder
 from category_encoders.polynomial import PolynomialEncoder
 from category_encoders.quantile_encoder import QuantileEncoder, SummaryEncoder
 from category_encoders.rankhot import RankHotEncoder
+from category_encoders.reversible_basen import ReversibleBaseN
 from category_encoders.sum_coding import SumEncoder
 from category_encoders.target_encoder import TargetEncoder
 from category_encoders.woe import WOEEncoder
